@@ -20,8 +20,8 @@ form input{
 }
 
 button{
-    width:150px;
-    height:40px;
+    width:20%;
+    height:50px;
     font-family: monospace;
     font-size: 1.2rem;
     cursor:pointer;
